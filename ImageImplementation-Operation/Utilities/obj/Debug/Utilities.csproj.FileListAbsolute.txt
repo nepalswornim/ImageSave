@@ -1,0 +1,5 @@
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\Utilities\bin\Debug\Utilities.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\Utilities\obj\Debug\Utilities.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\Utilities\obj\Debug\Utilities.pdb

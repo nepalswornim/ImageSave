@@ -1,0 +1,7 @@
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\bin\Debug\DAL.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\bin\Debug\DAL.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\ImageImplementation-Operation\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
